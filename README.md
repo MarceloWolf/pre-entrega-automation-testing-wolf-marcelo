@@ -29,5 +29,5 @@ pip install -r requirements.txt
 
 Ejecución de la prueba: pytest tests/test_saucedemo.py -v --html=reports/reporte.html
 
-<img width="1521" height="184" alt="image" src="https://github.com/user-attachments/assets/d606e225-0cf0-466a-824c-a5ed55ee066b" />
+
 
